@@ -10,7 +10,7 @@
         
     
        <form action="ricevi_dati.php" method="post">
-        <input type="text" name="name" placeholder="Inserici parola"/>
+        <input type="text" name="parolaccia" placeholder="Inserici parola"/>
         <button type="submit">Invia</button>
        </form> 
     
