@@ -1,6 +1,6 @@
 
        <?php 
-        $parolaccia = $_post['parolaccia'];
+        $parolaccia = $_POST['parolaccia'];
        
         $testoDaCensura ="Chiedi all’utente la sua email,
         controlla che sia nella lista di chi può accedere,
