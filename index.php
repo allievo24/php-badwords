@@ -9,7 +9,7 @@
     <body>
         
     
-       <form action="ricevi_dati.php" method="post">
+       <form action="index.php" method="post">
         <input type="text" name="parolaccia" placeholder="Inserici parola"/>
         <button type="submit">Invia</button>
        </form> 
